@@ -1,4 +1,11 @@
 # Spring Boot MVC with thymeleaf
+
+### java8, spring5, thymeleaf, gradle
+
+### directory
+![image](https://user-images.githubusercontent.com/7710893/118436323-9a8f1380-b71b-11eb-82ce-0e880a141c32.png)
+
+
 ### gradle
 
 ~~~
@@ -29,3 +36,6 @@ test {
 	useJUnitPlatform()
 }
 ~~~
+
+
+
