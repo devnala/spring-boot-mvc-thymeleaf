@@ -1,7 +1,8 @@
 # Spring Boot MVC with thymeleaf
 ### gradle
 
-''' plugins {
+~~~
+plugins {
 	id 'org.springframework.boot' version '2.4.5'
 	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
 	id 'java'
@@ -27,4 +28,4 @@ dependencies {
 test {
 	useJUnitPlatform()
 }
-''''
+~~~
