@@ -1,1 +1,1 @@
-# spring-boot-mvc-thymeleaf
+# spring-boot-mvc-thymeleaf sample code
