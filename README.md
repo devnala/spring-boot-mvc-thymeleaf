@@ -1,4 +1,4 @@
-# Spring Boot MVC with thymeleaf
+# Spring Boot MVC with thymeleaf hello world!
 
 ### java8, spring5, thymeleaf, gradle
 
